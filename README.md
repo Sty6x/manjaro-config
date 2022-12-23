@@ -1,2 +1,1 @@
-# manjaro-config
-yes yes gruvbox
+# Yes
